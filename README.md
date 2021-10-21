@@ -1,2 +1,2 @@
-# aimlcases
-Applied Ai &amp; ML Use Cases in Industry (FMCG Retail, Music, etc).
+# Ai ML Cases
+A repo with Ai &amp; ML use cases applied to various industries (e.g. FMCG Retail, Music, etc).
